@@ -1,1 +1,1 @@
-# Relationship-Mining-using-Modularity
+# Relationship Mining using Graph Modularity
